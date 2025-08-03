@@ -10,21 +10,7 @@ A classic Snake game built in Rust using the [`piston_window`](https://crates.io
 - The game ends when the snake collides with itself or the wall.
 
 ## 📷 Screenshot
-
-*(You can add a screenshot here if you want. Example:)*  
-![Snake Game Screenshot](# 🐍 Snake Game in Rust
-
-A classic Snake game built in Rust using the [`piston_window`](https://crates.io/crates/piston_window) graphics library. The game showcases basic game loop structure, keyboard input handling, and 2D rendering in Rust.
-
-## 🎮 Gameplay
-
-- Use **Arrow keys** to control the snake's direction.
-- Eat food to grow your snake.
-- Avoid running into yourself or the screen edges.
-- The game ends when the snake collides with itself or the wall.
-
-## 📷 Screenshot
-  
+ 
 ![Snake Game Screenshot](https://github.com/krishnag-12/SNAKE_GAME/blob/82815103f1ca6f6e4ecf0893289d52e8898e4357/Screenshot%202025-08-03%20173444.png)
 
 ## 🛠️ Built With
@@ -38,7 +24,6 @@ A classic Snake game built in Rust using the [`piston_window`](https://crates.io
 1. **Install Rust** (if not already):
    ```bash
    https://rustup.rs
-)
 
 2. ```git clone https://github.com/your-username/snake-game.git
    ```cd snake-game
