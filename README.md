@@ -21,16 +21,16 @@ A classic Snake game built in Rust using the [`piston_window`](https://crates.io
 
 ## 📦 Installation
 
-1. **Install Rust** (if not already):
+1. **Install Rust** (if not already):  
+   Visit [https://rustup.rs](https://rustup.rs) and follow the instructions to install Rust.
+
+2. **Clone the repository and navigate into it:**
    ```bash
-   https://rustup.rs
-
-2. ```git clone https://github.com/your-username/snake-game.git
-   ```cd snake-game
-
-3. **Run the game:**
-   ```cargo run
-
+   git clone https://github.com/your-username/snake-game.git
+   cd snake-game
+3. **Run the game:
+   ```bash
+   cargo run
 
 ##📁 Project Structure
 .
