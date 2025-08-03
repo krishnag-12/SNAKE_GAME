@@ -33,15 +33,15 @@ A classic Snake game built in Rust using the [`piston_window`](https://crates.io
    cargo run
 
 ## 📁 Project Structure
-.
-├── src
-│   ├── main.rs       # Game setup and main loop
-│   ├── draw.rs       # Drawing helper functions
-│   ├── game.rs       # Game logic (collision, food, game over)
-│   └── snake.rs      # Snake movement and behavior
-├── Cargo.toml        # Project metadata and dependencies
-├── Cargo.lock        # Automatically generated dependency versions lock file
-└── README.md         # You're here!
+ .
+ ├── src
+ │   ├── main.rs       # Game setup and main loop
+ │   ├── draw.rs       # Drawing helper functions
+ │   ├── game.rs       # Game logic (collision, food, game over)
+ │   └── snake.rs      # Snake movement and behavior
+ ├── Cargo.toml        # Project metadata and dependencies
+ ├── Cargo.lock        # Automatically generated dependency versions lock file
+ └── README.md         # You're here!
 
 ## ✅ Features
 - Modular codebase (separate files for logic and rendering)
