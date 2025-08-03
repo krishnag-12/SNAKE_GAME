@@ -33,7 +33,7 @@ A classic Snake game built in Rust using the [`piston_window`](https://crates.io
    cargo run
 
 ## 📁 Project Structure
- .
+ ```.
  ├── src
  │   ├── main.rs       # Game setup and main loop
  │   ├── draw.rs       # Drawing helper functions
