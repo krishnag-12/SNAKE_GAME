@@ -28,11 +28,11 @@ A classic Snake game built in Rust using the [`piston_window`](https://crates.io
    ```bash
    git clone https://github.com/your-username/snake-game.git
    cd snake-game
-3. **Run the game:
+3. **Run the game:**
    ```bash
    cargo run
 
-##📁 Project Structure
+## 📁 Project Structure
 .
 ├── src
 │   ├── main.rs       # Game setup and main loop
@@ -43,13 +43,13 @@ A classic Snake game built in Rust using the [`piston_window`](https://crates.io
 ├── Cargo.lock        # Automatically generated dependency versions lock file
 └── README.md         # You're here!
 
-##✅ Features
+## ✅ Features
 - Modular codebase (separate files for logic and rendering)
 - Responsive snake movement
 - Self-collision and wall detection
 - Growing snake after eating food
 
-##🚧 Future Improvements
+## 🚧 Future Improvements
 - Add score tracking and display
 - Implement difficulty levels
 - Add sound effects or animations
