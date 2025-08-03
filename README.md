@@ -42,14 +42,9 @@ A classic Snake game built in Rust using the [`piston_window`](https://crates.io
  ├── Cargo.toml        # Project metadata and dependencies
  ├── Cargo.lock        # Automatically generated dependency versions lock file
  └── README.md         # You're here!
-
+```
 ## ✅ Features
 - Modular codebase (separate files for logic and rendering)
 - Responsive snake movement
 - Self-collision and wall detection
 - Growing snake after eating food
-
-## 🚧 Future Improvements
-- Add score tracking and display
-- Implement difficulty levels
-- Add sound effects or animations
